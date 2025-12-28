@@ -1,6 +1,7 @@
 .encore
 encore.gen.go
 encore.gen.cue
+.DS_Store
 /.encore
 node_modules
 /encore.gen
